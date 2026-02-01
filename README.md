@@ -33,8 +33,3 @@ This project demonstrates practical use of data structures to solve real-world p
 
 ### Prerequisites
 - A C++ compiler (e.g., GCC, MinGW, or MSVC)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Moiz-bhati/Exam-Attendance-Seating-System.git
